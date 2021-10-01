@@ -75,10 +75,6 @@
       <Project>{751c4bf7-ee0b-4412-811a-4ff12ba4130f}</Project>
       <Name>ElevenNote.Models</Name>
     </ProjectReference>
-    <ProjectReference Include="..\ElevenNote.Services\ElevenNote.Services.csproj">
-      <Project>{b4ef7a11-6b65-41d9-ac59-7619bcd9afb3}</Project>
-      <Name>ElevenNote.Services</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202109292209087_initialmigration.resx">
